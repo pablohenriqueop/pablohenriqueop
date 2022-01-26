@@ -6,7 +6,7 @@
 
 Graduated in Internet Systems, he had experience with the development of several digital products using PHP. Currently I work with Front-End development and master stack HTML, CSS and JavaScript. Passionate about JavaScript, he has knowledge in React, React Native and starting to learn NodeJS.
 
-- I’m currently working at Ame Digital with React / Redux 😎
+- I’m currently working at Grupo Boticário with React / NextJS
 
 ### Connect with me:
 
