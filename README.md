@@ -4,9 +4,9 @@
 
 ## I'm a Front-End Developer, Gamer and Drummer
 
-Graduated in Internet Systems, he had experience with the development of several digital products using PHP. Currently I work with Front-End development and master stack HTML, CSS and JavaScript. Passionate about JavaScript, he has knowledge in React, React Native and starting to learn NodeJS.
+Graduated in Internet Systems, i have experience with development of several digital products using Javascript. Currently i work with front-end development and master stack HTML, CSS and JavaScript. Passionate about JavaScript, i have knowledge in React, React Native and starting to learn NodeJS.
 
-- I’m currently working at Grupo Boticário with React and your ecosystem
+- I’m currently working at Grupo Boticário with React and its ecosystem
 
 ### Connect with me:
 
