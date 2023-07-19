@@ -6,7 +6,7 @@
 
 Graduated in Internet Systems, i have experience with development of several digital products using Javascript. Currently i work with front-end development and master stack HTML, CSS and JavaScript. Passionate about JavaScript, i have knowledge in React, React Native and starting to learn NodeJS.
 
-- I’m currently working at Grupo Boticário with React and its ecosystem
+- I’m currently working at Stone with React, TypeScript and Tailwind
 
 ### Connect with me:
 
