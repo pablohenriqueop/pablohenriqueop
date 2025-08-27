@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=pablohenrique.dev&style=for-the-badge&url=https%3A%2F%2Fpablohenrique.dev)](https://pablohenrique.dev)
 
-## I'm a Front-End Developer, Gamer and Drummer
+## I'm a Software Engineer, Gamer and Drummer
 
 Graduated in Internet Systems, i have experience with development of several digital products using Javascript. Currently i work with front-end development and master stack HTML, CSS and JavaScript. Passionate about JavaScript, i have knowledge in React, React Native and starting to learn NodeJS.
 
